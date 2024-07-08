@@ -26,6 +26,8 @@ function Jovan() {
           from="from-bgColorjo"
           to="to-backColorjo"
           text="text-defaultColorjo"
+          href="https://drive.google.com/file/d/1I4lu4VI_LFw7gslZFv5ogzLjxVFHl_1r/view?usp=sharing"
+          download="JOVAN_VIAN_THENDRA_CV.pdf"
           />
         </div>
 

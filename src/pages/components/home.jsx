@@ -14,9 +14,8 @@ const Home = (props) => {
 
   const download = () => {
     const link = document.createElement("a");
-    link.href =
-      "https://drive.google.com/file/d/1I4lu4VI_LFw7gslZFv5ogzLjxVFHl_1r/view?usp=sharing";
-    link.download = "JOVAN_VIAN_THENDRA_CV.pdf";
+    link.href = `${props.link}`;
+    link.download = `${props.download}`;
     link.click();
   };
 

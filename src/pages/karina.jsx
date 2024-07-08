@@ -26,6 +26,8 @@ function Karina() {
           from="from-bgColorkar"
           to="to-backColorkar"
           text="text-defaultColorkar"
+          href="https://drive.google.com/file/d/1csakW_7th0sBVs-OROYUQ3pJ63CwELe-/view?usp=sharing"
+          download="KARINA_GHAISANI_CV.pdf"
           />
         </div>
 
