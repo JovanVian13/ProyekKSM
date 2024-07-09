@@ -5,7 +5,7 @@ import karphoto from "../assets/img/karinaphoto2.jpg";
 
 function Dashboard() {
   return (
-    <div className="flex bg-gradient-to-r from-fromColor to-toColor min-h-screen items-center justify-center gap-20">
+    <div className="flex flex-wrap bg-gradient-to-r from-fromColor to-toColor min-h-screen items-center justify-center gap-20">
         <div>
             <p className='text-8xl font-extrabold text-white'>Welcome!</p>
             <p className='text-5xl font-extrabold text-purple-950'>Choose Your Student</p>
